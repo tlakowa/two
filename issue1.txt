@@ -1,0 +1,7 @@
+because you are stupid!
+Steps to reproduce:
+i dont understand that long video is full of unnecessary data
+Expected resultat:
+More information about how to do it, less stories
+Actual resultat:
+Nothing
